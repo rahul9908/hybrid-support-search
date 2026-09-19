@@ -1,2 +1,0 @@
-[console_scripts]
-support-search = support_search.cli:main
